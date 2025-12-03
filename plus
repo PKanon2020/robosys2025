@@ -2,7 +2,7 @@
 # SPDX-FileCopyrightText: 2025 Hayato Tsukagoshi
 # SPDX-License-Identifiler: BSD-3-Clause
 
-import syss
+import sys
 
 ans = 0
 for line in sys.stdin:
